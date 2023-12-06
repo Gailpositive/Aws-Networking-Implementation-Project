@@ -23,9 +23,28 @@
 
 <img width="770" alt="11" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/f72e695d-1251-47e8-8ceb-c39484a7a757">
 
+
+<img width="960" alt="permision1" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/f772b872-a0b0-4ab3-ac96-36a90436aba2">
+
+<img width="900" alt="permision2" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/5aaa23fa-5cf7-4b75-970f-1df55c6ede62">
+
+<img width="424" alt="permision 3 jason file format" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/2fe7b021-5841-4f9c-b8f9-aa9b1f1a36f4">
+
+<img width="402" alt="permision4" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/f3317e80-fc6e-4fcc-9375-0ea6d9b09295">
+
+<img width="501" alt="permision5" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/c7d912b8-b23e-4468-a5e1-9c3fea182afc">
+
+<img width="815" alt="permision6" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/c7797ff0-644c-42b9-8093-45b24bb35ede">
+
+<img width="919" alt="permision7" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/afca1ef6-c5ad-4edb-a350-e79fde8a258f">
+
+<img width="958" alt="permision8" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/5e599536-20d3-4012-a6a5-c9759f8761cb">
+
 <img width="936" alt="12" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/f50b2aeb-1ede-4f7a-bbaf-bc78b42c6dc2">
 
 <img width="958" alt="12b" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/29e623bb-6e3f-4dda-bd7b-6928bac52a28">
+
+<img width="744" alt="14 image access denied cos of it private, no permmison granted" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/ba278fe2-4df8-42cb-b589-49ac82a30e06">
 
 
 
