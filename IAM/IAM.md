@@ -21,6 +21,13 @@
 
 <img width="663" alt="nineb" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/23da29a8-1a5d-42ff-9956-86399b6a5e0b">
 
+<img width="770" alt="11" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/f72e695d-1251-47e8-8ceb-c39484a7a757">
+
+<img width="936" alt="12" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/f50b2aeb-1ede-4f7a-bbaf-bc78b42c6dc2">
+
+<img width="958" alt="12b" src="https://github.com/Gailpositive/Aws-Networking-implementation/assets/111061512/29e623bb-6e3f-4dda-bd7b-6928bac52a28">
+
+
 
 
 
