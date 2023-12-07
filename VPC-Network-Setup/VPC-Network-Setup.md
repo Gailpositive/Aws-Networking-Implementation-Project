@@ -49,4 +49,7 @@
 
 
 ### STEP 5: LAUNCH A VIRTUAL MACHINE IN THE VIRTUAL PRIVATE CLOUD USING AWS EC2
-
+* Spine up an EC2 instance
+* Scroll down and click on launch instance
+* Give the instance a name
+* 
