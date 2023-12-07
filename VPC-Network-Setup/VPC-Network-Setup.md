@@ -18,5 +18,10 @@
 . Select VPC only 
 <img width="708" alt="vpc 53" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/7d6dd5f7-edd1-4630-abe2-f2088e004694">
 
-<img width="714" alt="vpc 54" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/ba2396ac-06a7-43f3-8674-80f290c53609">
+<img width="818" alt="vpc 54" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/80453a29-a709-46b8-a3ce-75b31d4507de">
 . And click create VPC 
+
+. Defualt VPC displayed
+. Two Main tables created: Main route table which is a custom table created by the wizard 
+. And the Main network ACL. All VPC has a Main network ACL table by defualt 
+. The custom route table is associated with the subnet.
