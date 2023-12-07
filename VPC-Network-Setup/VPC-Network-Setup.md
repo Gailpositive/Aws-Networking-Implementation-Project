@@ -71,3 +71,5 @@
 
 <img width="753" alt="vpc 72" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/1b53075e-4a4b-4336-848e-66f1b9b844f5">
 
+### Virtual Private Cloud Created
+<img width="913" alt="vpc 73 created" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/9874e787-6b4e-4608-bc52-d36e574efd62">
