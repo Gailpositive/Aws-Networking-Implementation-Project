@@ -107,6 +107,8 @@
 
 <img width="452" alt="50" src="https://github.com/Gailpositive/AWS-VPC-Network-Setup/assets/111061512/350c1c8d-ec09-4a8e-aa83-a6ad8a6ce568">
 
+
 ## CREATE A VIRTUAL PRIVATE CLOUD (VPC) USING THE AWS CLOUD CONSOLE
 
+<img width="711" alt="51" src="https://github.com/Gailpositive/AWS-VPC-Network-Setup/assets/111061512/4aabbc15-66b0-4873-a60c-440daf3591db">
 
