@@ -12,6 +12,11 @@
 ### . Create a custom route table and associated with a subnet so traffic can flow within the subnet and the internet gateway
  
 ## STEP 1: On the AWS management console, type VPC on the search bar
-. Next, Create VPC 
+. Next, Click on "Create VPC" to launch VPC wizard 
 <img width="957" alt="vpc 52" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/837340f1-3cc5-4121-884a-f0607a5ff140">
 
+. Select VPC only 
+<img width="708" alt="vpc 53" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/7d6dd5f7-edd1-4630-abe2-f2088e004694">
+
+<img width="714" alt="vpc 54" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/ba2396ac-06a7-43f3-8674-80f290c53609">
+. And click create VPC 
