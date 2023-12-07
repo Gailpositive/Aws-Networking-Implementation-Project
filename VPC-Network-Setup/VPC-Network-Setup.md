@@ -1,4 +1,4 @@
-# Documentation SETUP For AWS VIRTUAL PRIVATE CLOUD (VPC) NETWORK 
+# Documentation For AWS VIRTUAL PRIVATE CLOUD (VPC) NETWORK SETUP
 
 ## Create a VPC and Launch an ec2 instance into the VPC using AWS VPC wizard
 
@@ -36,10 +36,17 @@
 
 <img width="915" alt="vpc 59" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/801ae5e6-b200-4ee2-af5b-1bcce2d21758">
 
-### STEP 3: On the navigation plane, click on subnet to view subnets created
+### STEP 3: On the navigation plane, click on subnet to view subnets colomns
 
 <img width="930" alt="vpc 60" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/a66a5d77-2f0a-42c6-ae55-acbc6d6efee5">
 
 <img width="925" alt="vpc 61" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/3c36eb8b-b05c-4707-9a47-7bd3fd458003">
 
 <img width="924" alt="vpc 62" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/f3dad76a-8d1f-46e9-8f7f-4a9d7ea708b1">
+
+### STEP 4: On the navigation plane, choose Internet gateway to view columns
+* Find the internet gateway attached to the VPC. The columns displays the ID of the VPC
+
+
+### STEP 5: LAUNCH A VIRTUAL MACHINE IN THE VIRTUAL PRIVATE CLOUD USING AWS EC2
+
