@@ -1,6 +1,6 @@
 # Documentation For AWS VIRTUAL PRIVATE CLOUD (VPC) NETWORK SETUP
 
-## Create a VPC and Launch an ec2 instance into the VPC using AWS VPC wizard
+## PROJECT OVERVIEW: Create A Virtual Private Cloud Network, Using The AWS Cloud Console
 
 <img width="714" alt="23B" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/4f5da7ae-7378-42f3-8fd6-42925f073564">
 
@@ -44,12 +44,30 @@
 
 <img width="924" alt="vpc 62" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/f3dad76a-8d1f-46e9-8f7f-4a9d7ea708b1">
 
-### STEP 4: On the navigation plane, choose Internet gateway to view columns
+### STEP 4: Create Subnet
+<img width="765" alt="vpc 63" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/ef85273b-42eb-4b49-af74-6edf77bef945">
+
+<img width="630" alt="vpc 64" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/0f7a6b3b-3e80-4ba9-bfcf-2fcbdb56e02c">
+
+<img width="765" alt="vpc 65" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/e7e3fd90-1b93-42c9-9ccc-0a2c694ab7c7">
+
+<img width="951" alt="vpc 65 subnet created" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/9297fd37-dc14-4bef-bda0-2729aea281c6">
+
+<img width="930" alt="vpc 67" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/77125cb7-d824-4e91-a408-5e6b0b89797e">
+
+<img width="944" alt="vpc 68" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/8fe86e0f-7b50-4466-8b3c-29dd98b99748">
+
+<img width="923" alt="vpc 69" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/685bdb97-a0e2-4199-b147-3fb02acb0d28">
+
+### STEP 5: On the navigation plane, choose Internet gateway to view columns
 * Find the internet gateway attached to the VPC. The columns displays the ID of the VPC
 
 
-### STEP 5: LAUNCH A VIRTUAL MACHINE IN THE VIRTUAL PRIVATE CLOUD USING AWS EC2
+### STEP 6: LAUNCH A VIRTUAL MACHINE IN THE VIRTUAL PRIVATE CLOUD USING AWS EC2
 * Spine up an EC2 instance
-* Scroll down and click on launch instance
-* Give the instance a name
-* 
+<img width="927" alt="vpc 71" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/2981141a-a8f5-419e-a27b-33478d69c6d6">
+
+<img width="891" alt="vpc 70" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/54a66b75-5f23-4291-b192-2e680004366e">
+
+<img width="753" alt="vpc 72" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/1b53075e-4a4b-4336-848e-66f1b9b844f5">
+
