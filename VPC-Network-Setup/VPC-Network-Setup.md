@@ -6,9 +6,9 @@
 
   
  ## This Project shows how to create AWS VPC wizard with the following steps:
-### . Creates the VPC with a network of 65,536 privates IP addresses
-### . Attach an internet gateway to the vitual private cloud 
-### . Create a range of 250 IP addresses in the VPC
+### . Creates the VPC with a network of  privates IP addresses (A VPC can create a network of about 65,536 IP addresses) 
+### . Attach an internet gateway to the vitual private cloud (Security group)
+### . Create a range of IP addresses in the VPC (about 250 IP addresses)
 ### . Create a custom route table and associated with a subnet so traffic can flow within the subnet and the internet gateway
  
 ### STEP 1: On the AWS management console, type VPC on the search bar
