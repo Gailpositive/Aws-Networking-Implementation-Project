@@ -86,7 +86,8 @@
 
 <img width="570" alt="40" src="https://github.com/Gailpositive/AWS-VPC-Network-Setup/assets/111061512/20cc8aa6-db7a-4717-8b99-8eff094e33e7">
 
-<img width="469" alt="41" src="https://github.com/Gailpositive/AWS-VPC-Network-Setup/assets/111061512/6c98376a-d510-4f58-af50-fc
+<img width="469" alt="41" src="https://github.com/Gailpositive/Aws-Networking-Implementation-Projects/assets/111061512/b6f2d7f5-7a86-48d7-beec-ddc39f112b47">
+
 
 <img width="469" alt="42" src="https://github.com/Gailpositive/AWS-VPC-Network-Setup/assets/111061512/6c58bed8-1b02-4e6d-990a-896c950195d1">
 83ef92c424">
