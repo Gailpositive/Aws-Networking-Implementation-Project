@@ -1,6 +1,6 @@
 # Documentation For AWS VIRTUAL PRIVATE CLOUD (VPC) NETWORK SETUP
 
-## PROJECT OVERVIEW: Create A Virtual Private Cloud Network, Using The AWS Cloud Console
+## PROJECT OVERVIEW: Create Two Virtual Private Cloud Using Amazon Web Services. Test and Run a Virtual Machine in the VPC created in Amazon Web Services
 
 <img width="714" alt="23B" src="https://github.com/Gailpositive/Empty-Repo/assets/111061512/4f5da7ae-7378-42f3-8fd6-42925f073564">
 
